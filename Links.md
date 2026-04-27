@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 11:43 (IR Time)
+- 📥 **[آموزش ساخت کانفیگ به روش Vercel-XHTTP با گیتهاب.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B3%D8%A7%D8%AE%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20Vercel-XHTTP%20%D8%A8%D8%A7%20%DA%AF%DB%8C%D8%AA%D9%87%D8%A7%D8%A8.mp4)**
+
+
 ### 📅 2026-04-27 01:38 (IR Time)
 - 📥 **[SlipNet-v2.5.3-lite-release-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk)**
 
