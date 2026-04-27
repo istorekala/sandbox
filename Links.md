@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 22:50 (IR Time)
+- 📥 **[mhrv-rs-android-arm64-v8a-v1.7.9.apk](https://github.com/istorekala/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.7.9.apk)**
+
+
 ### 📅 2026-04-27 22:47 (IR Time)
 - 📥 **[MasterDnsVPN-GG-1.0.9-arm64-v8a.apk](https://github.com/istorekala/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-arm64-v8a.apk)**
 
