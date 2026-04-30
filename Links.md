@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 17:04 (IR Time)
+- 📥 **[resolvers.bin](https://github.com/istorekala/sandbox/raw/main/dl/resolvers.bin)**
+
+
 ### 📅 2026-04-30 17:02 (IR Time)
 - 📥 **[configs.bin](https://github.com/istorekala/sandbox/raw/main/dl/configs.bin)**
 
