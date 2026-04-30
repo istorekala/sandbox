@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 09:48 (IR Time)
+- 📥 **[tsetup.6.7.8.exe](https://github.com/istorekala/sandbox/raw/main/dl/tsetup.6.7.8.exe)**
+
+
 ### 📅 2026-04-30 09:03 (IR Time)
 - 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/istorekala/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip)**
 
