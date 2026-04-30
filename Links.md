@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 16:25 (IR Time)
+- 📥 **[VaydnsVpn-v1.7.8-arm64-v8a.apk](https://github.com/istorekala/sandbox/raw/main/dl/VaydnsVpn-v1.7.8-arm64-v8a.apk)**
+
+
 ### 📅 2026-04-30 15:08 (IR Time)
 - 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/istorekala/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip)**
 
