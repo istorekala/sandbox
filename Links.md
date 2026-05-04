@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-04 07:51 (IR Time)
+- 📥 **[thefeed-android-v0.14.6-arm64-v8a.apk](https://github.com/istorekala/sandbox/raw/main/dl/thefeed-android-v0.14.6-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-04 06:54 (IR Time)
 - 📥 **[mhrv-rs-android-arm64-v8a-v1.9.9.apk](https://github.com/istorekala/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.9.apk)**
 
