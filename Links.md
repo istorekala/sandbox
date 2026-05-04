@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-04 09:11 (IR Time)
+- 📥 **[range-scout-v0.1.2-arm64-v8a-release-signed.apk](https://github.com/istorekala/sandbox/raw/main/dl/range-scout-v0.1.2-arm64-v8a-release-signed.apk)**
+
+
 ### 📅 2026-05-04 07:51 (IR Time)
 - 📥 **[thefeed-android-v0.14.6-arm64-v8a.apk](https://github.com/istorekala/sandbox/raw/main/dl/thefeed-android-v0.14.6-arm64-v8a.apk)**
 
