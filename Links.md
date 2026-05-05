@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-05 08:40 (IR Time)
+- 📥 **[thefeed-android-v0.15.0-arm64-v8a.apk](https://github.com/istorekala/sandbox/raw/main/dl/thefeed-android-v0.15.0-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-05 07:43 (IR Time)
 - 📥 **[zyrln-1.2.1.apk](https://github.com/istorekala/sandbox/raw/main/dl/zyrln-1.2.1.apk)**
 
